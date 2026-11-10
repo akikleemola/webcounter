@@ -17,3 +17,5 @@ Open And Configure Browser
     END
     New Context
     New Page  about:blank
+    Go To  ${HOME_URL}
+    Click  button >> text=Nollaa
